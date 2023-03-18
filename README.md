@@ -1,5 +1,4 @@
 # terraform-project-test
-Testing the project configuration
 
 # Task: Automated Deployment of Virtual Machines onAWS
 
