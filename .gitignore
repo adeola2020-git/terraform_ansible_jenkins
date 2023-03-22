@@ -1,0 +1,7 @@
+ignored-files
+.trunk
+.terraform
+.terraform.lock.hcl
+my_key.pem
+terraform.tfstate
+terraform.tfstate.backup

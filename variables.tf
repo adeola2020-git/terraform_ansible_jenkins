@@ -1,5 +1,5 @@
 variable "region" {
-  default = "eu-west-2" #"us-east-1"
+  default = "us-east-1" #"us-east-1"
 }
 
 variable "vpc_cidr" {
@@ -8,11 +8,11 @@ variable "vpc_cidr" {
 
 variable "azs" {
   type    = list(string)
-  default = ["eu-west-2a", "eu-west-2b"]
+  default = ["us-east-1a", "us-east-1b"]
 }
 
 variable "ami" {
-  default = "ami-038d76c4d28805c09"
+  default = "ami-0557a15b87f6559cf"
 }
 
 
